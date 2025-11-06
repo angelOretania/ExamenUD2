@@ -7,6 +7,7 @@ public class SumaEnteros {
 			int resultado = calcularSuma(numeros);
 			System.out.println("La suma total es: "+resultado);
 		}catch (Exception e) {
+			System.out.println("error");
 		}
 	}
 	
